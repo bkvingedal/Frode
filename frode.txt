@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Dette er fra PC
-=======
 Ny linje WEB
->>>>>>> d4e946964ed6777616079a7ab4fd6ae6520b4f8b
+Dette er fra PC
